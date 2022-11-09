@@ -1,7 +1,7 @@
 import { Button, Container, TextareaAutosize } from '@mui/material';
 import { useState } from 'react';
 import styled from 'styled-components';
-import { StyledTable, StyledTitle, Wrapper } from './Table.styled';
+import { StyledTable,  Wrapper } from './Table.styled';
 import useTable from './useTable';
 import { flexRender } from '@tanstack/react-table';
 

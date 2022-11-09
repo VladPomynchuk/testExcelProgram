@@ -48,13 +48,13 @@ export const StyledIconBox = styled.div`
   margin-right: 10px;
 `;
 
-export const StyledTitle = styled.h3`
-  margin-bottom: 16px;
-  font-family: 'Montserrat';
-  font-weight: 600;
-  font-size: 19px;
-  line-height: 1.2;
-`;
+// export const StyledTitle = styled.h3`
+//   margin-bottom: 16px;
+//   font-family: 'Montserrat';
+//   font-weight: 600;
+//   font-size: 19px;
+//   line-height: 1.2;
+// `;
 
 export const Wrapper = styled.div`
   :not(:last-child) {
