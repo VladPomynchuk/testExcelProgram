@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/testExcelProgram/static/css/main.d33dd536.css",
+    "main.js": "/testExcelProgram/static/js/main.ac48cc54.js",
+    "index.html": "/testExcelProgram/index.html",
+    "main.d33dd536.css.map": "/testExcelProgram/static/css/main.d33dd536.css.map",
+    "main.ac48cc54.js.map": "/testExcelProgram/static/js/main.ac48cc54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d33dd536.css",
+    "static/js/main.ac48cc54.js"
+  ]
+}
