@@ -19,21 +19,6 @@ export const StyledTable = styled.table`
       height: 62px;
       background-color: #fff;
       box-shadow: 0px 2px 3px rgba(9, 30, 63, 0.1);
-
-      /* td {
-        :nth-child(1) {
-          width: 50%;
-        }
-        :nth-child(2) {
-          width: 30%;
-        }
-        :nth-child(3) {
-          width: 10%;
-        }
-        :nth-child(4) {
-          width: 10%;
-        }
-      } */
     }
   }
 `;
@@ -47,14 +32,6 @@ export const StyledBookTitle = styled.div`
 export const StyledIconBox = styled.div`
   margin-right: 10px;
 `;
-
-// export const StyledTitle = styled.h3`
-//   margin-bottom: 16px;
-//   font-family: 'Montserrat';
-//   font-weight: 600;
-//   font-size: 19px;
-//   line-height: 1.2;
-// `;
 
 export const Wrapper = styled.div`
   :not(:last-child) {

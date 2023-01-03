@@ -5,7 +5,7 @@ import {
 } from '@tanstack/react-table';
 import { useMemo } from 'react';
 
-const useTable = data => {
+const useParseTable = data => {
   const columnHelper = createColumnHelper();
 
   const columns = useMemo(() => {
@@ -32,4 +32,4 @@ const useTable = data => {
   return { table };
 };
 
-export default useTable;
+export default useParseTable;
